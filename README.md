@@ -6,7 +6,7 @@ This GitHub Action automatically upvotes one new post from a set of subreddits t
 
 ### 1. Fork This Repository
 
-Click the "Fork" button at the top-right of this page.
+Click the "Fork" button at the top-right of this page, and move the `upvote.yml` file to `.github/workflows/`.
 
 ### 2. Create a Reddit App
 
